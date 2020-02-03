@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: 새로운 기능을 추가합니다
+about: 새로운 기능을 추가하는 이슈입니다
 title: ''
 labels: 'w:Feature'
 assignees: ''
